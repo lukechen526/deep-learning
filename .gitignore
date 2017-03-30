@@ -3,3 +3,13 @@
 # Ignore downloaded datasets
 embeddings/data/
 embeddings/text8.zip
+
+# Ignore save* and pickled objects
+save.*
+*.p
+
+# Ignore checkpoints
+.ipynb_checkpoints
+checkpoint
+# Ignore __pycache__
+__pycache__
