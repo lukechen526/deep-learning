@@ -13,3 +13,9 @@ save.*
 checkpoint
 # Ignore __pycache__
 __pycache__
+
+# Transfer learning
+codes
+flower_photos.tar.gz
+flower_photos/
+labels
