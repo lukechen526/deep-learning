@@ -1,0 +1,3 @@
+[submodule "transfer-learning/tensorflow_vgg"]
+	path = transfer-learning/tensorflow_vgg
+	url = https://github.com/machrisaa/tensorflow-vgg.git
