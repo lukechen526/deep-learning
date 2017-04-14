@@ -1,3 +1,6 @@
 [submodule "transfer-learning/tensorflow_vgg"]
 	path = transfer-learning/tensorflow_vgg
 	url = https://github.com/machrisaa/tensorflow-vgg.git
+[submodule "reinforcement/gym"]
+	path = reinforcement/gym
+	url = https://github.com/openai/gym
