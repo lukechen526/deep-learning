@@ -20,3 +20,9 @@ flower_photos.tar.gz
 flower_photos/
 labels
 
+
+*.meta
+
+*.data-00000-of-00001
+
+*.index
