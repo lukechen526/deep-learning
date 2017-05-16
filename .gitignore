@@ -21,9 +21,11 @@ flower_photos.tar.gz
 flower_photos/
 labels
 
+# GAN
+batch-norm/MNIST_data/
+face_generation/data/
 
+# Other 
 *.meta
-
 *.data-00000-of-00001
-
 *.index
