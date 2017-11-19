@@ -25,7 +25,8 @@ labels
 # GAN
 batch-norm/MNIST_data/
 face_generation/data/
-
+semi-supervised/data/
+semi-supervised/images/
 # Other 
 *.meta
 *.data-00000-of-00001
